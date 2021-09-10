@@ -33,9 +33,9 @@ I have had the opportunity to be part of a team implementing this awesome open s
 
 <p align="center">
 <img alt="Screenshot of our datahub" src="https://drive.google.com/uc?id=1I_08IqAUABL8bSVX-KGDVLxcVo9ZuYY1" height="200px" />
- Screenshot of our DataHub login page
+ <br>Screenshot of our DataHub login page
 </p>
-
+<hr>
 <p align="center">
 <img alt="DataHub" src="docs/imgs/datahub-logo.png" height="200px" />
 </p>
