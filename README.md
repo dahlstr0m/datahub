@@ -23,16 +23,23 @@ export const Logo = (props) => {
 
 <!--
 HOSTED_DOCS_ONLY-->
+
+<!-- -->
+
+
+
+## DataHub
+I have had the opportunity to be part of a team implementing this awesome open source data catalog in the analytics department for one of the larger telecom providers. A group of five summer interns set it up using an AWS instance and Docker compose. We made some minor design changes, as well as setting up a connection to Snowflake for data importation. As my code and work from my internship with the company does not belong to me, I keep this fork of the DataHub repository in my GitHub instead.
+
+<p align="center">
+<img alt="Screenshot of our datahub" src="https://drive.google.com/uc?id=1I_08IqAUABL8bSVX-KGDVLxcVo9ZuYY1" height="200px" />
+ Screenshot of our DataHub login page
+</p>
+
 <p align="center">
 <img alt="DataHub" src="docs/imgs/datahub-logo.png" height="200px" />
 </p>
-<!-- -->
-
 # DataHub: A Metadata Platform for the Modern Data Stack
-
-## This awesome open source datacatalog is something I have had the opportunity to be part of a team implementing this catalog in the analytics department at one of the larger telecom providers. We set it up using AWS instance, and Docker compose to presist the service. And we made some minor design changes, as well as setting up a connection to Snowflake for data importation. As my code and work from my internship with the company does not belong to me, I keep this fork of the DataHub repository in my GitHub instead.
-
-
 
 [![Version](https://img.shields.io/github/v/release/linkedin/datahub?include_prereleases)](https://github.com/linkedin/datahub/releases/latest)
 [![build & test](https://github.com/linkedin/datahub/workflows/build%20&%20test/badge.svg?branch=master&event=push)](https://github.com/linkedin/datahub/actions?query=workflow%3A%22build+%26+test%22+branch%3Amaster+event%3Apush)
